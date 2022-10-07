@@ -6,5 +6,5 @@ feature includes
 - reponse to different user location
 
 Screenshot
-1.png
-2.png
+![Screenshot](1.png)
+![Screenshot](2.png)
